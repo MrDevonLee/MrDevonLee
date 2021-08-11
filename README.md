@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MrDevonLee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in electronics design, computers, and making hardware and software work well together.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: my personal website, devonlee.me
 
 <!---
